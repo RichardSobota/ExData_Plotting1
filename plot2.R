@@ -1,7 +1,7 @@
 ##
 ## plot2.R
 ##
-## Written by Richard Sobota as part of progrmming assignment 
+## Written by Richard Sobota as part of programming assignment 
 ## in Exploratory Data Analysis course.
 ##
 ## Function uses packages dplyr and lubridate.
